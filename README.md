@@ -1,7 +1,7 @@
 ### hi there
 
 
-<img alt="Coder GIF" height=250 width=350 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
 
 - 👋 Hi, I’m @Sairam020
 - 👀 I’m interested in ...
